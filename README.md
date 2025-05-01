@@ -93,15 +93,15 @@ enum UseStatus { CAN_USE = 0, CANT_USE };
 
 ---
 
-## 발표 자동
+## PPT 링크
 
-[Google Slides 발표자동](https://docs.google.com/presentation/d/1Sm1KpYJBDfsZw9afOPHl4je9D7ro_QHZ73DHFwr2_pE/edit?usp=sharing)
+[Google Slides 링크](https://docs.google.com/presentation/d/1Sm1KpYJBDfsZw9afOPHl4je9D7ro_QHZ73DHFwr2_pE/edit?usp=sharing)
 
 ---
 
 ## 시뮬레이터 링크
 
-[Tinkercad 프로젝트 보기](https://www.tinkercad.com/things/fmIV2W00RRL-arduinoonedayprojectelevator)
+[Tinkercad 프로젝트](https://www.tinkercad.com/things/fmIV2W00RRL-arduinoonedayprojectelevator)
 
 ---
 
