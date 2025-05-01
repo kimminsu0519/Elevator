@@ -13,14 +13,7 @@ Arduino Uno 보드를 기반으로 구현한 간단한 엘리버터 시뮬레이
 
 ---
 
-## 파일 구성
-
-| 파일명 | 설명 |
-|:------|:----|
-| `Arduino_Oneday_Project_Elevator_final.ino` | 엘리버터 주요 로직이 구현된 아두이노 코드 |
-| `README.md` | 프로젝트 소개 문서 |
-| `LICENSE` | 오픈소스 라이센스 파일 (MIT) |
-
+## 회로 구성 사진
 ![Elevator Circuit Diagram](image/elevator_circuit_diagram.png)
 ---
 
